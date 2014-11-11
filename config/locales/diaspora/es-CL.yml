@@ -576,7 +576,7 @@ es-CL:
         one: "y uno más"
         other: "y otros %{count} más"
         zero: "y nadie más"
-      mark_all_as_read: "Marcar todo como leido"
+      mark_all_as_read: "Marcar todo como leído"
       mark_unread: "Marcar como no leído"
       notifications: "Notificaciones"
     liked:
